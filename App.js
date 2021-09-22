@@ -22,10 +22,3 @@ export default function App() {
     </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  fundo: {
-    backgroundColor: '#0C0C0C'
-  }
-})
-
